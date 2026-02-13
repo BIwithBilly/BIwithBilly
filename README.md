@@ -22,8 +22,8 @@ I specialize in turning raw, messy data into high-level business intelligence. F
 
 ### 📫 Connect with Me
 * 🌍 **Portfolio Website:** [biwithbilly.github.io](https://biwithbilly.github.io/index.html)
-* 💼 **LinkedIn:** [Your LinkedIn URL Here]
-* ✉️ **Email:** [Your Email Here]
+* 💼 **LinkedIn:** [(https://www.linkedin.com/in/billylackey12280325)]
+* ✉️ **Email:** [billy.lackey@gmail.com]
 
 ---
 *“In God we trust, all others must bring data.”* – W. Edwards Deming
