@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Billy! 
 
-<!--
-**BIwithBilly/BIwithBilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Analyst & BI Developer 
+I specialize in turning raw, messy data into high-level business intelligence. From building automated Python scrapers to architecting cloud-based ELT pipelines in Databricks, I focus on creating data solutions that are both scalable and visually compelling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Technical Toolbox
+
+* **Data Engineering:** Databricks (PySpark, Delta Lake), SQL (Advanced CTEs & Window Functions), Python (Pandas, BeautifulSoup).
+* **Business Intelligence:** Power BI (DAX, Star Schema Modeling), Tableau (Visual Storytelling).
+* **Analysis & Logic:** Advanced Excel (Pivot Tables, Nested Logic, Automation).
+
+---
+
+### 📊 Featured Work
+* **[Databricks AI/BI: NYC Taxi Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects)** - Implementing Generative AI for natural language data querying.
+* **[Power BI: US Bank Failures](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_Banks)** - Historical time-series analysis of 25 years of financial data.
+* **[Tableau: AirBnB Market Research](https://public.tableau.com/app/profile/billy.lackey/vizzes)** - Geospatial revenue analysis for real-estate optimization.
+
+---
+
+### 📫 Connect with Me
+* 🌍 **Portfolio Website:** [biwithbilly.github.io](https://biwithbilly.github.io/index.html)
+* 💼 **LinkedIn:** [Your LinkedIn URL Here]
+* ✉️ **Email:** [Your Email Here]
+
+---
+*“In God we trust, all others must bring data.”* – W. Edwards Deming
