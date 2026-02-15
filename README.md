@@ -26,10 +26,12 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 ## 📊 Featured Work
 
 - 🧱 **[Databricks AI/BI: NYC Taxi Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks%20Projects)** – Implementing Generative AI for natural language data querying on large-scale datasets.
-- 📈 **[Python: Data Analysis & Automation](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects)** – A collection of engineering projects including a **World Population EDA** – Deep-dive statistical analysis using Pandas and Matplotlib to identify 50-year global growth trends and an **Automated Amazon Price Tracker** Engineered a Python-based monitoring system using BeautifulSoup and smtplib to automate data extraction and trigger real-time email alerts for price fluctuations.
+- 📈 **[Python: Data Analysis & Automation](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects)** – A collection of engineering projects focused on:
+    - **World Population EDA:** Deep-dive statistical analysis using Pandas and Matplotlib to identify 50-year global growth trends.
+    - **Automated Amazon Price Tracker:** Engineered a Python-based monitoring system using BeautifulSoup and smtplib to automate data extraction and trigger real-time email alerts.
 - 🗄️ **[MySQL: World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/tree/main/SQL%20Cleaning%20Project)** – Advanced data cleaning and EDA using CTEs and Window Functions to transform raw tech industry data.
 - 📉 **[Power BI: US Bank Failures](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Power%20BI%20Projects)** – A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
-- 🎨 **[Tableau: AirBnB Market Research](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau%20Projects)** – Geospatial revenue analysis and interactive storytelling for real-estate optimization.
+- 🎨 **[Tableau: AirBnB Market Research](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau%20Projects)** – Geospatial revenue analysis and interactive storytelling for real-estate optimization.ch](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau%20Projects)** – Geospatial revenue analysis and interactive storytelling for real-estate optimization.
 
 ## 📫 Let's Connect!
 
