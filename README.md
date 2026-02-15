@@ -32,8 +32,10 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 ## 📊 Featured Work
 
 * **🧱 [Databricks AI/BI: NYC Taxi Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects)** – Implementing Generative AI for natural language data querying on large-scale datasets.
+* **🗄️ [MySQL: World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MySQL-Projects)** – Advanced data cleaning and EDA using CTEs and Window Functions to transform raw tech industry data.
+* **🐍 [Python: Amazon Price Tracker](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects)** – Automated web scraping and price monitoring system using BeautifulSoup and Pandas.
+* **📈 [Power BI: US Bank Failures](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects)** – A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
 * **🎨 [Tableau: AirBnB Market Research](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects)** – Geospatial revenue analysis and interactive storytelling for real-estate optimization.
-* **📈 [Power BI: US Bank Failures](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects)** – Historical time-series analysis and animated trend tracking of 25 years of financial data.
 
 ---
 
