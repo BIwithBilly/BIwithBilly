@@ -23,15 +23,27 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 - **Pragmatic Works:** Specialized training in Paginated Reports & Advanced Power BI.
 - **Alex the Analyst Bootcamp:** Databricks for Data Lakehouse & SQL Warehouse.
 
-## 📊 Featured Work
+## 📊 Featured Work by Category
 
-- 🧱 **[Databricks AI/BI: NYC Taxi Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks%20Projects)** – Implementing Generative AI for natural language data querying on large-scale datasets.
-- 📈 **[Python: Data Analysis & Automation](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects)** – A collection of engineering projects focused on:
-    - **World Population EDA:** Deep-dive statistical analysis using Pandas and Matplotlib to identify 50-year global growth trends.
-    - **Automated Amazon Price Tracker:** Engineered a Python-based monitoring system using BeautifulSoup and smtplib to automate data extraction and trigger real-time email alerts.
-- 🗄️ **[MySQL: World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/tree/main/SQL%20Cleaning%20Project)** – Advanced data cleaning and EDA using CTEs and Window Functions to transform raw tech industry data.
-- 📉 **[Power BI: US Bank Failures](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Power%20BI%20Projects)** – A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
-- 🎨 **[Tableau: AirBnB Market Research](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau%20Projects)** – Geospatial revenue analysis and interactive storytelling for real-estate optimization.ch](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau%20Projects)** – Geospatial revenue analysis and interactive storytelling for real-estate optimization.
+### 🐍 Python & Data Engineering (Flashship Projects)
+* **[Crypto Market Intelligence](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects/Crypto_Market_Intelligence):** Automated API pipeline featuring a live **Seaborn Heatmap** tracking market sentiment from 1h to 90d.
+* **[Amazon Price Tracker](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects/Amazon-Web-Scraper):** Automated web scraping and price monitoring system using BeautifulSoup and Pandas.
+
+### 🧱 Databricks & Cloud Analytics
+* **[NYC Taxi AI/BI Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects):** Implementing Generative AI for natural language data querying on large-scale datasets.
+
+### 🗄️ SQL & Database Management
+* **[World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MySQL-Projects):** Advanced data cleaning and EDA using CTEs and Window Functions to transform raw tech industry data.
+
+### 📊 Power BI & Tableau
+* **[US Bank Failures (Power BI)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects):** A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
+* **[AirBnB Market Research (Tableau)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects):** Geospatial revenue analysis and interactive storytelling for real-estate optimization.
+
+### 📈 Excel & Automation
+* **[Bike Sales Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Excel-Projects):** Full-cycle spreadsheet analysis featuring automated cleaning and interactive slicers.
+* **[Automation & Fun Stuff](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects/Fun_Stuff):** Python scripts for file system organization and interactive utility tools.
+
+---
 
 ## 📫 Let's Connect!
 
