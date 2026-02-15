@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Billy!
 
-### 🚀 Data Analyst & BI Developer
-I specialize in turning raw, messy data into high-level business intelligence. From building automated Python scrapers to architecting cloud-based ELT pipelines in **Databricks**, I focus on creating data solutions that are both scalable and visually compelling.
+## 🚀 Data Analyst & BI Developer
+I specialize in turning raw, messy data into high-level business intelligence. I focus on building efficient data workflows—leveraging **Fivetran** for seamless data ingestion and **Databricks (PySpark)** for scalable processing—to create analytics solutions that are both reliable and visually compelling.
 
 ---
 
