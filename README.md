@@ -27,4 +27,4 @@ I specialize in turning raw, messy data into high-level business intelligence. F
 * 💼 **LinkedIn:** [in/billylackey12280325](https://www.linkedin.com/in/billylackey12280325)
 * ✉️ **Email:** [billy.lackey@gmail.com](mailto:billy.lackey@gmail.com)
 
-*“In God we trust, all others must bring data.”* – W. Edwards Deming*“In God we trust, all others must bring data.”* – W. Edwards Deming
+*“In God we trust, all others must bring data.”* – W. Edwards Deming
