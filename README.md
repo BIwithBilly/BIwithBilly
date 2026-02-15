@@ -22,10 +22,10 @@ I specialize in turning raw, messy data into high-level business intelligence. I
     * *Focus:* Structured analytical thinking, SQL (BigQuery), R programming, and Tableau.
 
 ### 🥈 Technical Specialized Training
-* **Databricks Academy:** Data Analyst Learning Path (Lakehouse, SQL Warehouse, Unity Catalog).
 * **DataCamp Professional Tracks:** Data Analyst with Python & Introduction to Microsoft Fabric.
 * **Pragmatic Works:** Specialized training in Paginated Reports & Advanced Power BI.
-* **Alex the Analyst Bootcamp:** Comprehensive hands-on projects in SQL, Python, and Portfolio Engineering.
+* **Alex the Analyst Bootcamp & Courses:** * *Databricks:* Fast-track implementation for Data Lakehouse & SQL Warehouse.
+    * *Portfolio Engineering:* Hands-on projects in SQL, Python, and Dashboarding.
 
 ---
 
