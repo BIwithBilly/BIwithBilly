@@ -30,7 +30,7 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 * **[Amazon Price Tracker](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects/Amazon-Web-Scraper):** Automated web scraping and price monitoring system using BeautifulSoup and Pandas.
 
 ### 🧱 Databricks & Cloud Analytics
-* **[NYC Taxi AI/BI Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects):** Implementing Generative AI for natural language data querying on large-scale datasets.
+* **[NYC Taxi AI/BI Genie Dashboard](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Databricks-Projects/Genie-NYC-Taxi):** Implementing Generative AI for natural language data querying on large-scale datasets.
 
 ### 🗄️ SQL & Database Management
 * **[World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MySQL-Projects):** Advanced data cleaning and EDA using CTEs and Window Functions to transform raw tech industry data.
