@@ -36,7 +36,7 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 * **[World Layoffs Data Cleaning](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MySQL-Projects):** Advanced data cleaning and EDA using CTEs and Window Functions to transform raw tech industry data.
 
 ### 📊 Power BI & Tableau
-* **[US Bank Failures (Power BI)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_):** A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
+* **[US Bank Failures (Power BI)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/US_Failed_Banks):** A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
 * **[Data Professional Survey (Power BI)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/DataProfessionalSurveyBreakdown):** A comprehensive analysis of industry trends, salary benchmarks, and tool preferences, featuring custom interactive filtering and data-driven storytelling.
 * **[Paginated Reports Portfolio (Power BI Builder)](./PowerBI-Projects/PaginatedReports)** : High-precision, print-ready RDL reports featuring cascading parameters, nested grouping, and expression-based formatting.
 * **[AirBnB Market Research (Tableau)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects):** Geospatial revenue analysis and interactive storytelling for real-estate optimization.
