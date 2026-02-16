@@ -23,6 +23,11 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 - **Pragmatic Works:** Specialized training in Paginated Reports & Advanced Power BI.
 - **Alex the Analyst Bootcamp:** Databricks for Data Lakehouse & SQL Warehouse.
 
+## 📁 [View All Portfolio Projects](https://github.com/BIwithBilly/PortfolioProjects)
+*A centralized repository containing all source code, datasets, and technical documentation for the projects listed below.*
+
+---
+
 ## 📊 Featured Work by Category
 
 ### 🐍 Python & Data Engineering (Flashship Projects)
