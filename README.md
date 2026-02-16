@@ -38,7 +38,7 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 ### 📊 Power BI & Tableau
 * **[US Bank Failures (Power BI)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects):** A deep dive into 25 years of financial data featuring complex DAX modeling and time-series animation.
 * **[Data Professional Survey (Power BI)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/PowerBI-Projects/DataProfessionalSurveyBreakdown):** A comprehensive analysis of industry trends, salary benchmarks, and tool preferences, featuring custom interactive filtering and data-driven storytelling.
-* **[Paginated Reports Portfolio (Power BI Builder)](./PowerBI-Projects/PaginatedReports) : High-precision, print-ready RDL reports featuring cascading parameters, nested grouping, and expression-based formatting.
+* **[Paginated Reports Portfolio (Power BI Builder)](./PowerBI-Projects/PaginatedReports)** : High-precision, print-ready RDL reports featuring cascading parameters, nested grouping, and expression-based formatting.
 * **[AirBnB Market Research (Tableau)](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Tableau-Projects):** Geospatial revenue analysis and interactive storytelling for real-estate optimization.
 
 ### 📈 Excel & Automation
