@@ -4,6 +4,21 @@
 
 I specialize in turning raw, messy data into high-level business intelligence. I focus on building efficient data workflows—leveraging *Fivetran* for automated ingestion and *Databricks (PySpark)* for scalable processing—to create analytics solutions that are both reliable and visually compelling.
 
+## 🏆 Certifications
+![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-PL--300-blue?style=for-the-badge&logo=microsoft)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals_AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Certified](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google)
+
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 ## 🛠️ My Technical Toolbox
 
 - **Data Engineering:** Databricks (PySpark, Delta Lake), SQL (Advanced CTEs & Window Functions), Python (Pandas, BeautifulSoup).
