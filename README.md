@@ -2,13 +2,15 @@
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/power-bi-data-analyst-associate" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/95048555-464a-4467-a720-379f826042f6/microsoft-certified-power-bi-data-analyst-associate.png" width="120" alt="PL-300">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84281313" width="130" alt="PL-300 Badge">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/azure-fundamentals" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/be8ed200-c4d6-430c-9a84-8ad59481a030/azure-fundamentals-600x600.png" width="120" alt="AZ-900">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84281300" width="130" alt="AZ-900 Badge">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/google-data-analytics" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0729359e-f00e-4363-8a30-80d859a16f6b/Google_Data_Analytics_Professional_Certificate.png" width="120" alt="Google">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/31102941" width="130" alt="Google Analytics Badge">
   </a>
 </p>
 
@@ -30,7 +32,6 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain.svg" alt="tableau" width="40" height="40"/> </a> 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/> </a> 
 </p>
-
 ## 👋 Hi, I'm Billy!
 
 ## 🚀 Data Analyst & BI Developer
