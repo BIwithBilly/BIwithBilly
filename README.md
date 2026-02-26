@@ -1,39 +1,5 @@
 # Hi 👋, I'm Billy Lackey
 
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/power-bi-data-analyst-associate" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84281313" width="130" alt="PL-300 Badge">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/azure-fundamentals" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84281300" width="130" alt="AZ-900 Badge">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/google-data-analytics" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/31102941" width="130" alt="Google Analytics Badge">
-  </a>
-</p>
-
-### I am a passionate Data Analyst & BI Developer dedicated to turning raw, messy data into high-level business intelligence. I specialize in building efficient data workflows—leveraging Fabric, Databricks (PySpark), and SQL—to create analytics solutions that are both reliable and visually compelling.
-
----
-
-- 🔭 I’m a **Data Analyst / BI Developer**
-- 💬 LinkedIn: [in/billylackey12280325](https://www.linkedin.com/in/billylackey12280325)
-- 🌍 Portfolio: [biwithbilly.github.io](https://biwithbilly.github.io/index.html)
-
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Microsoft_Fabric_Logo.svg" alt="fabric" width="40" height="40"/> </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" alt="databricks" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="powerbi" width="40" height="40"/> </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain.svg" alt="tableau" width="40" height="40"/> </a> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/> </a> 
-</p>
-## 👋 Hi, I'm Billy!
-
 ## 🚀 Data Analyst & BI Developer
 
 I specialize in turning raw, messy data into high-level business intelligence. I focus on building efficient data workflows—leveraging *Fivetran* for automated ingestion and *Databricks (PySpark)* for scalable processing—to create analytics solutions that are both reliable and visually compelling.
