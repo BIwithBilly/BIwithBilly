@@ -1,4 +1,14 @@
-
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/power-bi-data-analyst-associate">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300 Badge" height="40">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/azure-fundamentals">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Badge" height="40">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/google-data-analytics">
+    <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge" height="40">
+  </a>
+</p>
 ## 👋 Hi, I'm Billy!
 
 ## 🚀 Data Analyst & BI Developer
