@@ -1,12 +1,12 @@
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/power-bi-data-analyst-associate">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300 Badge" height="40">
+  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/power-bi-data-analyst-associate" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/95048555-464a-4467-a720-379f826042f6/microsoft-certified-power-bi-data-analyst-associate.png" width="110" height="110" alt="PL-300">
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/azure-fundamentals">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Badge" height="40">
+  <a href="https://learn.microsoft.com/en-us/users/billylackey/credentials/certification/azure-fundamentals" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/be8ed200-c4d6-430c-9a84-8ad59481a030/azure-fundamentals-600x600.png" width="110" height="110" alt="AZ-900">
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/google-data-analytics">
-    <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge" height="40">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/google-data-analytics" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0729359e-f00e-4363-8a30-80d859a16f6b/Google_Data_Analytics_Professional_Certificate.png" width="110" height="110" alt="Google Data Analytics">
   </a>
 </p>
 ## 👋 Hi, I'm Billy!
