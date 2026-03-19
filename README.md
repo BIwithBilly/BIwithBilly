@@ -2,10 +2,6 @@
 
 ## 🚀 Data Analyst & BI Developer
 
-# Hi 👋, I'm Billy Lackey
-
-## 🚀 Data Analyst & BI Developer
-
 I bridge the gap between complex data engineering and strategic decision-making. I specialize in architecting end-to-end analytics solutions that transform raw, fragmented data into high-impact business intelligence. From engineering scalable cloud pipelines in Microsoft Fabric and Databricks to delivering executive-level insights via Power BI and Tableau, I build data systems that are as reliable as they are visually compelling—ensuring stakeholders have sub-second access to the metrics that drive growth.
 
 ## 🛠️ My Technical Toolbox
