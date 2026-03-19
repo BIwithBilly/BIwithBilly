@@ -15,6 +15,10 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 ### 🥇 Core Professional Certifications
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
   - *Focus:* Enterprise data modeling, advanced DAX, and Power BI service management.
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+  - *Focus:* Cloud concepts, Azure architecture and services, and Azure management and governance.
+- **Google AI Essentials / Professional Certificate**
+  - *Focus:* Generative AI use cases, prompt engineering, and responsible AI development.
 - **Google Data Analytics Professional Certificate**
   - *Focus:* Structured analytical thinking, SQL (BigQuery), R programming, and Tableau.
 
