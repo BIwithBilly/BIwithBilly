@@ -6,8 +6,8 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 
 ## 🛠️ My Technical Toolbox
 
-- **Data Engineering:** Databricks (PySpark, Delta Lake), SQL (Advanced CTEs & Window Functions), Python (Pandas, BeautifulSoup).
-- **Business Intelligence:** Power BI (DAX, Star Schema Modeling), Power BI Report Builder (Paginated Reports, SSRS Expressions), Tableau (Visual Storytelling).
+- **Data Engineering:** **Microsoft Fabric (OneLake, Data Factory, Warehouse)**, Databricks (PySpark, Delta Lake), SQL (Advanced CTEs & Window Functions), Python (Pandas, BeautifulSoup).
+- **Business Intelligence:** Power BI (**Direct Lake Mode**, DAX, Star Schema Modeling), Power BI Report Builder (Paginated Reports, SSRS Expressions), Tableau (Visual Storytelling).
 - **Analysis & Logic:** Advanced Python EDA (Matplotlib, Seaborn), Advanced Excel (Pivot Tables, Nested Logic).
 
 ## 🏆 Certifications & Professional Development
@@ -23,7 +23,7 @@ I specialize in turning raw, messy data into high-level business intelligence. I
   - *Focus:* Structured analytical thinking, SQL (BigQuery), R programming, and Tableau.
 
 ### 🥈 Technical Specialized Training
-- **DataCamp Professional Tracks:** Data Analyst with Python & Introduction to Microsoft Fabric.
+- *DataCamp Professional Tracks:* **Microsoft Fabric (Data Engineering & Warehouse)**, Data Analyst with Python.
 - **Pragmatic Works:** Specialized training in Paginated Reports & Advanced Power BI.
 - **Alex the Analyst Bootcamp:** Databricks for Data Lakehouse & SQL Warehouse.
 
@@ -35,6 +35,10 @@ I specialize in turning raw, messy data into high-level business intelligence. I
 ---
 
 ## 📊 Featured Work by Category
+
+### 🏗️ Microsoft Fabric - Unified Cloud Analytics
+- [End-to-End Medallion Architecture](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MSFabric-Project/Fabric-Medallion-Architecture-EndToEnd): Built a full Bronze-Silver-Gold pipeline for AdventureWorks using **Fabric Pipelines** and **PySpark**, featuring automated ingestion from GitHub APIs.
+- [Pizza Sales Direct-to-Gold](https://github.com/BIwithBilly/PortfolioProjects/tree/main/MSFabric-Project/PizzaSales): Developed an agile pipeline using **Dataflow Gen2** and **Direct Lake** mode to achieve sub-second reporting performance in Power BI.
 
 ### 🐍 Python & Data Engineering (Flashship Projects)
 * **[Crypto Market Intelligence](https://github.com/BIwithBilly/PortfolioProjects/tree/main/Python_Pandas-Projects/Crypto_Market_Intelligence):** Automated API pipeline featuring a live **Seaborn Heatmap** tracking market sentiment from 1h to 90d.
