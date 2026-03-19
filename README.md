@@ -25,7 +25,11 @@ I bridge the gap between complex data engineering and strategic decision-making.
 ### 🥈 Technical Specialized Training
 - *DataCamp Professional Tracks:* **Microsoft Fabric (Data Engineering & Warehouse)**, Data Analyst with Python.
 - **Pragmatic Works:** Specialized training in Paginated Reports & Advanced Power BI.
-- **Alex The Analyst – Data Analyst Bootcamp:** Comprehensive technical program covering the full data lifecycle, including Advanced SQL, Python ETL (Pandas/BeautifulSoup), Tableau/Power BI dashboarding, and Azure cloud foundations.
+- **Alex The Analyst – Data Analyst Bootcamp:** Comprehensive 80+ hour technical program covering the full data lifecycle:
+    - **SQL:** Mastery of MySQL for data cleaning, advanced joins, CTEs, and window functions.
+    - **Python:** End-to-end ETL processing, web scraping (BeautifulSoup/Requests), and exploratory data analysis (Pandas/Seaborn).
+    - **Visualization:** Full-cycle dashboard development and storytelling in both **Tableau** and **Power BI**.
+    - **Cloud & Platforms:** Foundational training in **Azure (Data Factory, Synapse)**, AWS essentials, and Excel for advanced business logic.
 
 ---
 
