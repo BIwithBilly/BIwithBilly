@@ -6,8 +6,9 @@ I bridge the gap between complex data engineering and strategic decision-making.
 
 ## 🛠️ My Technical Toolbox
 
-- **Data Engineering:** **Microsoft Fabric (OneLake, Data Factory, Warehouse)**, Databricks (PySpark, Delta Lake), SQL (Advanced CTEs & Window Functions), Python (Pandas, BeautifulSoup).
-- **Business Intelligence:** Power BI (**Direct Lake Mode**, DAX, Star Schema Modeling), Power BI Report Builder (Paginated Reports, SSRS Expressions), Tableau (Visual Storytelling).
+- **Cloud & Orchestration:** **Microsoft Fabric (OneLake, Data Factory, Warehouse)**, Databricks (PySpark, Delta Lake), Azure (Synapse, Deployment Pipelines).
+- **Data Engineering:** SQL (Advanced CTEs & Window Functions), Python (Pandas, BeautifulSoup), ETL Automation, Data Lineage.
+- **Business Intelligence:** Power BI (**Direct Lake Mode**, DAX, Star Schema Modeling), Power BI Report Builder (Paginated Reports), Tableau (Visual Storytelling).
 - **Analysis & Logic:** Advanced Python EDA (Matplotlib, Seaborn), Advanced Excel (Pivot Tables, Nested Logic).
 
 ## 🏆 Certifications & Professional Development
